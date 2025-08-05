@@ -1,0 +1,38 @@
+[
+  {
+    "Q": "What is car insurance?",
+    "A": "Car insurance is a contract between you and an insurance company that protects you against financial loss in the event of an accident or theft. "
+  },
+  {
+    "Q": "What types of car insurance are available?",
+    "A": "Common types include liability insurance, collision insurance, comprehensive insurance, personal injury protection, and uninsured motorist coverage. "
+  },
+  {
+    "Q": "What type of insurance do I need for a sedan?",
+    "A": "For a sedan, liability insurance is mandatory. Comprehensive and collision coverage are recommended for better protection. "
+  },
+  {
+    "Q": "What type of insurance do I need for a commercial vehicle?",
+    "A": "Commercial vehicles require commercial auto insurance, which covers business - related risks and higher liability limits. "
+  },
+  {
+    "Q": "Is car insurance mandatory?",
+    "A": "Yes, liability insurance is mandatory in most states/countries to legally drive a vehicle. "
+  },
+  {
+    "Q": "What documents are required to buy car insurance?",
+    "A": "You typically need your driver’s license, vehicle registration, and proof of address. "
+  },
+  {
+    "Q": "How is the insurance premium calculated?",
+    "A": "Premiums are calculated based on factors like vehicle type, driver’s age, driving history, location, and coverage type. "
+  },
+  {
+    "Q": "What is not covered by car insurance?",
+    "A": "Common exclusions include intentional damage, driving under the influence, and using the vehicle for illegal activities. "
+  },
+  {
+    "Q": "How do I file a claim?",
+    "A": "Contact your insurer, provide necessary documents, fill out a claim form, and follow the insurer’s process for assessment and settlement."
+  }
+]
